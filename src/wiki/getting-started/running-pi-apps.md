@@ -1,5 +1,4 @@
----
-eleventyNavigation:
+Thffykftifruh
   key: Running Pi-Apps
   parent: Getting Started
   order: 2
